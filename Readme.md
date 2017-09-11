@@ -2,4 +2,4 @@
 
 ##Integrantes:
 -Luis Alberto Elías Burgara
-Francisco Javier Sosa Ortega
+-Francisco Javier Sosa Ortega
