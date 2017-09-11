@@ -1,5 +1,6 @@
-#DAM2017-2-U1eje04-SOSA-ELIAS
+# DAM2017-2-U1eje04-SOSA-ELIAS
 
-##Integrantes:
+## Integrantes:
+
 -Luis Alberto Elías Burgara
 -Francisco Javier Sosa Ortega
