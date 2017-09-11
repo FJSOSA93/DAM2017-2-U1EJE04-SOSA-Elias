@@ -2,5 +2,5 @@
 
 ## Integrantes:
 
--Luis Alberto Elías Burgara
--Francisco Javier Sosa Ortega
+- Luis Alberto Elías Burgara
+- Francisco Javier Sosa Ortega
