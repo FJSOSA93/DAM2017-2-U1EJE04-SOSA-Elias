@@ -1,0 +1,14 @@
+{
+  "name": "eje04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "number-to-words": "^1.2.3"
+  }
+}
